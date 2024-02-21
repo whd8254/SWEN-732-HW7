@@ -1,24 +1,24 @@
 [{
   "Course name": "Math",
-  "Professor name": "Prof. Smith",
+  "Professor name": "John Doe",
   "Course code": "MATH101",
   "Course room": "Room 101",
   "Course time": "9:00 AM - 10:30 AM"
 },{
   "Course name": "History",
-  "Professor name": "Prof. Johnson",
+  "Professor name": "John Doe",
   "Course code": "HIST101",
   "Course room": "Room 201",
   "Course time": "11:00 AM - 12:30 PM"
 },{
   "Course name": "Introduction to Computer Science",
-  "Professor name": "Dr. John Smith",
+  "Professor name": "Alice Smith",
   "Course code": "CS101",
   "Course room": "Room 101",
   "Course time": "9:00 AM - 10:30 AM"
 },{
   "Course name": "Data Structures and Algorithms",
-  "Professor name": "Prof. Emily Johnson",
+  "Professor name": "Alice Smith",
   "Course code": "CS200",
   "Course room": "Room 201",
   "Course time": "11:00 AM - 12:30 PM"
