@@ -1,0 +1,9 @@
+[{
+  "Professor name": "John Red",
+  "Professor email": "john@example.com",
+  "Courses": []
+},{
+  "Professor name": "Jimmy Johnson",
+  "Professor email": "alice@example.com",
+  "Courses": ["HIST101"]
+}]
