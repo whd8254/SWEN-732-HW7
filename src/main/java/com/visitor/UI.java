@@ -15,7 +15,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-
+/**
+ * UI is the none visitor part of this system
+ */
 public class UI {
     List<Student> students;
     List<Professor> professors;

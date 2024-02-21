@@ -1,9 +1,52 @@
-[{
-  "Professor name": "John Red",
-  "Professor email": "john@example.com",
-  "Courses": []
-},{
-  "Professor name": "Jimmy Johnson",
-  "Professor email": "alice@example.com",
-  "Courses": ["HIST101"]
-}]
+[
+  {
+    "Student name": "John s",
+    "Student email": "john.doe@example.com",
+    "Courses": ["HIST101", "MATH101", "CS101", "CS200"]
+  },
+  {
+    "Student name": "Alice y",
+    "Student email": "alice.smith@example.com",
+    "Courses": ["HIST101", "CS101"]
+  },
+  {
+    "Student name": "Bob Johnson",
+    "Student email": "bob.johnson@example.com",
+    "Courses": ["MATH101", "CS200"]
+  },
+  {
+    "Student name": "Emily Brown",
+    "Student email": "emily.brown@example.com",
+    "Courses": ["HIST101", "CS101", "CS200"]
+  },
+  {
+    "Student name": "Michael Wilson",
+    "Student email": "michael.wilson@example.com",
+    "Courses": ["MATH101", "CS101", "CS200"]
+  },
+  {
+    "Student name": "Emma Lee",
+    "Student email": "emma.lee@example.com",
+    "Courses": ["HIST101", "MATH101"]
+  },
+  {
+    "Student name": "James Taylor",
+    "Student email": "james.taylor@example.com",
+    "Courses": ["HIST101", "CS200"]
+  },
+  {
+    "Student name": "Olivia Martinez",
+    "Student email": "olivia.martinez@example.com",
+    "Courses": ["MATH101", "CS101"]
+  },
+  {
+    "Student name": "William Anderson",
+    "Student email": "william.anderson@example.com",
+    "Courses": ["CS101", "CS200"]
+  },
+  {
+    "Student name": "Sophia Thomas",
+    "Student email": "sophia.thomas@example.com",
+    "Courses": ["HIST101", "MATH101", "CS101", "CS200"]
+  }
+]
